@@ -85,6 +85,7 @@ This is a descriptive analysis of the supplied dataset. The patterns should not 
 ## 👤 Author
 
 **Rachel Konadu Gyamfi**
+
 Data Analytics Portfolio Project
 
 [GitHub](https://github.com/)
