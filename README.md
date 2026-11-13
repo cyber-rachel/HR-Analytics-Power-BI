@@ -82,8 +82,9 @@ The dataset is included for portfolio demonstration. Before making this reposito
 
 This is a descriptive analysis of the supplied dataset. The patterns should not be interpreted as causal explanations of employee attrition or generalized to other organizations without further validation.
 
-## Author
+##👤 Author
 
-**Palmer**
+**Rachel Konadu Gyamfi**
+Data Analytics Portfolio Project
 
 [GitHub](https://github.com/)
