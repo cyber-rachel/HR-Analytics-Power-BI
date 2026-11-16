@@ -8,13 +8,17 @@ The analysis uses a dataset containing **1,480 employee records and 37 fields**.
 
 ## Dashboard Preview
 
-### Dashboard overview
+### Dashboard Overview
 
 ![HR Analytics Dashboard overview](images/hr_dashboard_overview.png)
 
-### Interactive filtering
+### Interactive Filtering
 
 ![HR Analytics Dashboard with filters](images/hr_dashboard_interactive.png)
+
+### Key Findings and Recommendations
+
+![HR Analytics Dashboard with filters](images/hr_findings_and_recommendations.png)
 
 ## Business Questions
 
