@@ -18,7 +18,7 @@ The analysis uses a dataset containing **1,480 employee records and 37 fields**.
 
 ### Key Findings and Recommendations
 
-![HR Analytics Dashboard with filters](images/hr_findings_and_recommendations.png)
+![HR Analytics Recommendations](images/hr_findings_and_recommendations.png)
 
 ## Business Questions
 
