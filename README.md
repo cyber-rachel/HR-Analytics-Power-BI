@@ -71,6 +71,10 @@ HR-Analytics-Power-BI/
     └── hr_dashboard_interactive.png
 ```
 
+## Project Walkthrough
+
+[Watch the HR_Analytics Dashboard Walkthrough](video/HR_Analytics_Dashboard_Walkthrough.mp4)
+
 ## How to Explore
 
 1. Download or clone this repository.
